@@ -13,6 +13,8 @@ Nakonec jsem se rozhodli použít Firebase a Android Studio. Firebase se snadno 
 
 Také jsme zkoušeli použít obě dvě jádra ESP32 pro úsporu enregie. Jedno jádro sloužilo ke čtení dat ze senzoru a druhé k posílení dat na cloud. Zjistili jsme, že místo uspory energie se začalo využívat ještě více energie, čili jsme od toho upustili.
 
+Momentální spotřeba je 110mA - 150mA.
+
 Použité součástky: - ESP32
                    - Tlakový senzor FSR402
                    - Červená a zelená LED dioda
