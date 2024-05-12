@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "740979885506",
+    "firebase_url": "https://zameke-esp32-kontrola-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "zameke-esp32-kontrola",
+    "storage_bucket": "zameke-esp32-kontrola.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:740979885506:android:c7f0b32542775e0f9ec25b",
+        "android_client_info": {
+          "package_name": "com.example.firebase_tlak_sen"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATKXcbGeisT81iQA3g0pQrk9baQg2arCo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
