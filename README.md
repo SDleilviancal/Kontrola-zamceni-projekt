@@ -11,6 +11,8 @@ Další možností bylo posílání dat ze senzoru na MQTT Mosquitto a pomocí a
 Dále jsme použili Arduino Cloud, to nám poskytlo jednoduché prostředí pro psaní kódu, který se automatický propojil s aplikací, kterou Arduino Cloud poskytuje. Z toho jsme sešli kvůli budoucím vylepšením a úpravám úspory energie.
 Nakonec jsem se rozhodli použít Firebase a Android Studio. Firebase se snadno propojilo jak s Arduino IDE, tak s Andriod Studio. Díky tomuto výběru nás nic neomezuje jak v kódu, tak v aplikace.
 
+Také jsme zkoušeli použít obě dvě jádra ESP32 pro úsporu enregie. Jedno jádro sloužilo ke čtení dat ze senzoru a druhé k posílení dat na cloud. Zjistili jsme, že místo uspory energie se začalo využívat ještě více energie, čili jsme od toho upustili.
+
 Použité součástky: - ESP32
                    - Tlakový senzor FSR402
                    - Červená a zelená LED dioda
