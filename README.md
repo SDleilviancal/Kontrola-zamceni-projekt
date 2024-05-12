@@ -1,5 +1,5 @@
 # Kontrola-zamceni-projekt - Delincak, Sliva
-# Kód pro Andoid studio je v master
+# Kód pro Andoid Studio je v master
 
 ESP32 zjišťuje změny stavu na talkovém senzoru a poté posílá data na Firebase. Z Firebase si tyto data bere Andriod Studio a podle této hodnoty vypisuje do mobilní aplikace, zdali je zamčeno nebo odemčeno.
 
