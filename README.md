@@ -24,6 +24,9 @@ Použité součástky: - ESP32
 Použité programy: - Arduino IDE
                   - Android Studio
                   - Firebase
+Fotky a vide: - ![obrazek](https://github.com/SDleilviancal/Kontrola-zamceni-projekt/assets/169610177/92a9f364-7cb8-47a4-81b2-9b1b6ec3b721)
+
+            
 
 Zdroje, které byly použity při tvorbě peojektu:
 https://developer.android.com/
